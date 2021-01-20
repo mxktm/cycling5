@@ -1,0 +1,123 @@
+img {
+    width: 20%;
+}
+
+body {
+    text-align: center;
+   
+}
+
+img {
+    border-radius: 100px;
+}
+
+.line {
+    height: 6px;
+    background: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+
+.menu{
+    font-family: sans-serif;
+    position: absolute;
+    top:10px;
+    right:30px;
+    list-style: none;
+    z-index: 10;
+    
+}
+
+.link{
+    color:white;
+    padding-top: 9px;
+    padding-left: 33px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family:fantasy;
+    float: left;
+    font-weight: bold;
+    
+    
+    
+}
+
+
+
+#welcome{
+    background-color:aqua;
+    height: 500px;
+}
+
+h1{
+    font-size:40px;
+    color:red;
+    font-family: 'Fraunces', serif;
+    
+}
+
+#info{
+    background-color:fuchsia;
+    height:250px;
+}
+
+#video{
+    background-color: peachpuff;
+    height: 800px;
+}
+
+#picture{
+    background-color:yellow;
+    height: 800px;
+}
+
+
+.cycling{
+    width:340px;
+}
+
+
+
+#inspiration{
+    background-color:cornflowerblue;
+    height: 800px;
+}
+
+#in{
+    width:1000px;
+}
+
+#contact{
+  background-color:green;
+    height: 800px;
+}
+
+
+.contact1 h3{
+  display:inline;
+    font-size: 15px;
+}
+
+#contact iframe{
+    width: 100%;
+}
+
+.ip{
+    border-radius:0;
+    border-style: outset;
+    width:400px;
+}
+
+p{
+    font-size:20px;
+}
+
+.link:hover{
+    background-color:red;
+    font-size:35px;
+    text-decoration: underline;
+}
+
